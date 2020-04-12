@@ -1,6 +1,6 @@
-# InsideEarth
+<center># InsideEarth</center>
 
-Knowledge base for the Earth Series, brought to you by InsideEarth.
+<center>Knowledge base for the Earth Series, brought to you by InsideEarth.</center>
 
 <body>
 		<center><a href="http://earth2160.insideearth.info"><img src="images/Earth2140_Header.jpg"/></a></center>
