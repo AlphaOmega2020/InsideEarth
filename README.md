@@ -8,9 +8,9 @@
 
 		<center>Knowledge base for the Earth Series, brought to you by InsideEarth.</center>
 
-		<center><a href="http://earth2160.insideearth.info"><img src="images/Earth2140_Header.jpg"/></a></center>
+		<center><a href="http://earth2140.insideearth.info"><img src="images/Earth2140_Header.jpg"/></a></center>
 
-		<center><a href="http://earth2160.insideearth.info"><img src="images/E2150-header.png"/></a></center>
+		<center><a href="http://earth2150.insideearth.info"><img src="images/E2150-header.png"/></a></center>
 
 		<center><a href="http://earth2160.insideearth.info"><img src="images/E2160_Header.png" height="108" width="300"/></a></center>
    </body>
