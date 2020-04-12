@@ -10,7 +10,7 @@ Knowledge base for the Earth Series, brought to you by InsideEarth.
 
 <body>
 		<h1 style = "font-family:cornerstone">InsideEarth</h1>
-		<center><img src="images/E2160_Header.png" height="108" width="300"></center>
+		<center><img src="images/E2160_Header.png" height="108" width="300" onclick="imageClick('http://earth2160.insideearth.info/')"></center>
 		<p>Everything you need to know about Earth 2160.</p>
 
 </body>
