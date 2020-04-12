@@ -10,7 +10,7 @@ Knowledge base for the Earth Series, brought to you by InsideEarth.
 
 <body>
 		<h1 style = "font-family:cornerstone">InsideEarth</h1>
-		<center><img src="images/E2160_Header.png" height="108" width="300" href="http://earth2160.insideearth.info"></center>
+		<center><a href="http://earth2160.insideearth.info"><img src="images/E2160_Header.png" height="108" width="300"/></a></center>
 		<p>Everything you need to know about Earth 2160.</p>
 
 </body>
@@ -18,9 +18,3 @@ Knowledge base for the Earth Series, brought to you by InsideEarth.
 
 Created by [Animal](https://www.youtube.com/channel/UCiVBYjeLsPCwPLI1GiSKBfw)
 
-
-Click <a href="http://www.yahoo.com">here</a> to go to yahoo.
-
-
-
-<a href="http://earth2160.insideearth.info"><img ssrc="images/E2160_Header.png" height="108" width="300"/></a>
