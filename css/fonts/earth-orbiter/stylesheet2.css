@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'earth_orbiterregular';
-    src: url('css/fonts/earth-orbiter/earthorbiter-webfont.woff2') format('woff2'),
-         url('css/fonts/earth-orbiter/earthorbiter-webfont.woff') format('woff');
+    src: url('earthorbiter-webfont.woff2') format('woff2'),
+         url('earthorbiter-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
