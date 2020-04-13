@@ -1,3 +1,3 @@
 # InsideEarth
 
-Knowledge base for Earth Series of Games.
+Knowledge base for the Earth Series of Games.
